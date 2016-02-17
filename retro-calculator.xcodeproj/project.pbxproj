@@ -13,6 +13,7 @@
 		98EEEDF41C70DE110012501D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98EEEDF31C70DE110012501D /* Assets.xcassets */; };
 		98EEEDF71C70DE110012501D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98EEEDF51C70DE110012501D /* LaunchScreen.storyboard */; };
 		98EEEDFF1C70E82F0012501D /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 98EEEDFE1C70E82F0012501D /* Minecraft.ttf */; };
+		98EEEE011C74DF5D0012501D /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 98EEEE001C74DF5D0012501D /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		98EEEDF61C70DE110012501D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98EEEDF81C70DE110012501D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98EEEDFE1C70E82F0012501D /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		98EEEE001C74DF5D0012501D /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 				98EEEDEB1C70DE110012501D /* retro-calculator */,
 				98EEEDEA1C70DE110012501D /* Products */,
 				98EEEDFE1C70E82F0012501D /* Minecraft.ttf */,
+				98EEEE001C74DF5D0012501D /* btn.wav */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98EEEE011C74DF5D0012501D /* btn.wav in Resources */,
 				98EEEDF71C70DE110012501D /* LaunchScreen.storyboard in Resources */,
 				98EEEDF41C70DE110012501D /* Assets.xcassets in Resources */,
 				98EEEDFF1C70E82F0012501D /* Minecraft.ttf in Resources */,
